@@ -40,6 +40,9 @@ const saveNote = (note) =>
       'Content-Type': 'application/json',
     },
     body: JSON.stringify(note),
+    //req.body.title
+    //req.body.text
+    // req.body.potato
   });
 
 const deleteNote = (id) =>
@@ -70,6 +73,7 @@ const handleNoteSave = () => {
   const newNote = {
     title: noteTitle.value,
     text: noteText.value,
+    //potato: "potahto"
   };
   saveNote(newNote).then(() => {
     getAndRenderNotes();
