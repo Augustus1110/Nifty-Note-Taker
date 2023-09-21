@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Table of Contents
+### Table of Contents
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Technologies](#technologies) 
@@ -13,10 +13,10 @@
 8. [Questions](#questions)
 9. [License](#license)
 
-## Description
+### Description
 This is a simple Note Taker application that allows users to create and view notes. It is built using Express.js on the back end and provides a user-friendly interface for taking and managing notes.
 
-## Installation
+### Installation
 To install this project, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
@@ -38,7 +38,7 @@ To install this project, follow these steps:
 
 5. Open your web browser and go to `http://localhost:3001` to use the Note Taker application.
 
-## Technologies
+### Technologies
 This project utilizes the following technologies:
 - HTML
 - CSS
@@ -47,7 +47,7 @@ This project utilizes the following technologies:
 - Express.js
 - Bootstrap
 
-## Usage
+### Usage
 To use this project, follow these steps:
 
 1. Launch the application by following the installation instructions above.
@@ -63,21 +63,21 @@ To use this project, follow these steps:
 6. Your saved notes will be displayed in the left sidebar. You can click on a note to view or edit it.
 
 
-## Images
+### Images
 ![Screenshot](./Assets/images/Note-Taker.png)
 
-## Contributing
+
+### Contributing
 Contributions to this project are currently not being accepted. If you would like to contribute, please contact me at the email listed below.
 
-## Collaborators
+### Collaborators
 This project was completed with guidance and assistance from EdX/UC Berkeley Extension tutor, Robby Kurle. 
 
-## Questions
+### Questions
 If you have any questions, please contact me:
-
 - GitHub: [Augustus1110](https://github.com/Augustus1110)
 - Email: donahi22@gmail.com
 
 
-## License
+### License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
