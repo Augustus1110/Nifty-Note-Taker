@@ -1,4 +1,4 @@
-# Note-Taker
+# Nifty-Note-Taker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -64,7 +64,7 @@ To use this project, follow these steps:
 
 
 ### Images
-![Screenshot](./Assets/images/Note-Taker.png)
+![Screenshot](./public/assets/images/Note-Taker.png)
 
 
 ### Contributing
