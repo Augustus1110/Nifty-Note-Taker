@@ -14,7 +14,8 @@
 9. [License](#license)
 
 ### Description
-This is a simple Note Taker application that allows users to create and view notes. It is built using Express.js on the back end and provides a user-friendly interface for taking and managing notes.
+This is a simple Note Taker application that allows users to create and view notes. It is built using Node.js and Express.js on the back end and provides a user-friendly interface for taking and managing notes. The app can be viewed online at https://nifty-note-taker-b2ad7b13fcac.herokuapp.com.
+
 
 ### Installation
 To install this project, follow these steps:
